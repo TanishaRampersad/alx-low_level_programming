@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
-* main - Make alphabet 10 times
+* main - Entry point
+* Description: Make the alphabet 10 times
 * Return: Always 0
 */
 
