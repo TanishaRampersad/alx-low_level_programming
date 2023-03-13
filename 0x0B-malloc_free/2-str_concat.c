@@ -34,7 +34,7 @@ char *str_concat(char *s1, char *s2)
 	/*check if malloc was successful */
 	if (nstr == NULL)
 		return (NULL);
-	
+
 	i = 0;
 	while (i < len1)
 	{
